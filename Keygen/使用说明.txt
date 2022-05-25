@@ -1,0 +1,3 @@
+安装完成后，退出软件，运行注册机，先点击get Version按钮，选择软件主程序，然后再选择Generate
+
+https://www.ghpym.com/mobaxterm.html
